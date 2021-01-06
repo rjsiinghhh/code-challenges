@@ -2,7 +2,7 @@ const reverseSeq = n => {
     if (n === 0) return []
 
 
-    leet i = 0;
+    let i = 0;
     let reverse = []
     while(i<n) {
         console.log(reverse.unshift(i+1));

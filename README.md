@@ -4,3 +4,5 @@
 Solved 
 
 (X) - mulitplication table
+(X) - position 
+(X) - nba

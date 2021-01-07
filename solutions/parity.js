@@ -15,6 +15,5 @@ function checkParity(parity, bin) {
         for(i = 0; i < bin.length; i++) {
             let value = bin[i]
         }
-
     }
 }

@@ -8,5 +8,9 @@ Solved
 (X) - nba
 (X) - reverse
 (X) - usd
-( ) - calculate
+(X) - calculate
+(X) - parity
+(X) - fizzbuzz
+
+
 

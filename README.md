@@ -8,4 +8,5 @@ Solved
 (X) - nba
 (X) - reverse
 (X) - usd
+( ) - calculate
 

@@ -12,6 +12,9 @@ function checkParity(parity, bin) {
 
 
     if(parity === 'even'){
+        for(i = 0; i < bin.length; i++) {
+            let value = bin[i]
+        }
 
     }
 }

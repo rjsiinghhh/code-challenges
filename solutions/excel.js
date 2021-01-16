@@ -2,7 +2,7 @@ const { assertPlaceholder } = require("@babel/types");
 
 class Solution {
     public:
-    string convertToTitle(int n) {
+    string convertToTitle(int, n) {
 
 
 

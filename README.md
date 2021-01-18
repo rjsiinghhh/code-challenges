@@ -1,16 +1,1 @@
-# code-challenges
-
-
-Solved 
-
-(X) - mulitplication table
-(X) - position 
-(X) - nba
-(X) - reverse
-(X) - usd
-(X) - calculate
-(X) - parity
-(X) - fizzbuzz
-
-
-
+the code wars problems ive solved. 

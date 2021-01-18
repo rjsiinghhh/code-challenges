@@ -12,3 +12,4 @@ var number=function(array){
     }
     return newArr;
   }
+

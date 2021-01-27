@@ -34,7 +34,7 @@ function selectionSort(array) {
     //   PUSH TO NEW ARRAY
 
 
-    // correct solution 
+    // correct solution 3
 
     function selectionSort(array) {
         let startIdx = 0;
